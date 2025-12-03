@@ -1,0 +1,5 @@
+{
+  "name": "Retailer Stock Portal",
+  "description": "Real-time stock monitoring dashboard with auto-refresh and restocking capabilities.",
+  "requestFramePermissions": []
+}
